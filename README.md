@@ -12,16 +12,19 @@ Designed for SOC Analysts, DFIR Investigators and Blue Teams.
 
 ## Descripción
 
-Monitor de tráfico saliente (egress) en tiempo real para Windows 11. Captura conexiones TCP ESTABLISHED con contexto completo de auditoría forense.
+Network Egress Monitor is a PowerShell-based monitoring tool that captures outbound TCP connections in real time.
 
-### Features
-- ✅ Captura conexiones TCP establecidas en tiempo real
-- ✅ Identifica proceso + PID + IP destino + puerto
-- ✅ Reverse DNS lookup (hostname)
-- ✅ Extracción automática de organización (Akamai, Microsoft, Google, AWS, Cloudflare)
-- ✅ WHOIAM context (usuario, dominio, hostname, SO)
-- ✅ Logging en C:\Logs\network-egress-final.log
-- ✅ Intervalo configurable (default: 3s)
+Each connection is correlated with:
+
+- Process Name
+- PID
+- Reverse DNS
+- Organization
+- Timestamp
+- User Context
+- Operating System
+
+The tool is intended for DFIR investigations, SOC monitoring, malware analysis and threat hunting.
 
 ## Uso
 

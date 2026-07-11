@@ -1,7 +1,7 @@
 ╔══════════════════════════════════════════════════════════════════════╗
-║                    NETWORK EGRESS MONITOR v3.0                       ║
-║              Windows Live TCP Connection Auditor                     ║
-║                      Lucas Villagra - 2026                           ║
+║                    NETWORK EGRESS MONITOR v3.0                      ║
+║              Windows Live TCP Connection Auditor                   ║
+║                      Lucas Villagra - 2026                         ║
 ╚══════════════════════════════════════════════════════════════════════╝
 
 **LinkedIn:** [lucas-villagra-cybersecurity](https://linkedin.com/in/lucas-villagra-cybersecurity)

@@ -6,13 +6,22 @@
 <img src="https://img.shields.io/badge/Status-Active-brightgreen">
 </p>
 
-## 🛰️ Network Egress Monitor
+┌───────────────────────────────────────────────────────────────┐
 
-Real-time TCP Egress Monitoring Tool for Windows.
+🛰️  NETWORK EGRESS MONITOR
 
-Designed for SOC Analysts, DFIR Investigators and Blue Teams.
+Real-Time TCP Connection Visibility for Windows
 
----
+PowerShell | DFIR | SOC | Threat Hunting
+
+───────────────────────────────────────────────
+
+Monitor outbound TCP connections
+Resolve Hostnames
+Identify Organizations
+Generate Investigation Logs
+
+└───────────────────────────────────────────────────────────────┘
 
 **LinkedIn:** [lucas-villagra-cybersecurity](https://linkedin.com/in/lucas-villagra-cybersecurity)
 

@@ -8,33 +8,33 @@
 
 ┌─────────────────────────────────────────────────────────────┐
 
-🛰️ NETWORK EGRESS MONITOR
+           🛰️ NETWORK EGRESS MONITOR
 
-Real-Time TCP Egress Monitoring for Windows
+       -Time TCP Egress Monitoring for Windows
 
-PowerShell Native
+       PowerShell Native
 
-SOC
+       SOC
 
-DFIR
+       DFIR
 
-Threat Hunting
+       Threat Hunting
 
-Blue Team
+       Blue Team
 
 ──────────────────────────────────────────────
 
-Real-Time Connections
+       Real-Time Connections
 
-Reverse DNS
+       Reverse DNS
 
-Organization Detection
+       Organization Detection
 
-Process Correlation
+       Process Correlation
 
-Logging
+       Logging
 
-Windows Native
+       Windows Native
 
 └─────────────────────────────────────────────────────────────┘
 

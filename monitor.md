@@ -1,0 +1,1 @@
+.\monitor-completo.ps1 -IntervalSeconds 1

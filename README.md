@@ -39,3 +39,50 @@ The tool is intended for DFIR investigations, SOC monitoring, malware analysis a
 powershell -ExecutionPolicy Bypass -File .\monitor-egress.ps1 -IntervalSeconds 1
 ```
 
+## Features
+
+✅ Real-time TCP monitoring
+
+✅ Reverse DNS lookup
+
+✅ Organization identification
+
+✅ Process correlation
+
+✅ Log generation
+
+✅ Lightweight
+
+✅ Native PowerShell
+
+✅ No external dependencies
+
+```mermaid
+graph TD
+
+A[Windows]
+
+B[Get-NetTCPConnection]
+
+C[Process Correlation]
+
+D[Reverse DNS]
+
+E[Organization Detection]
+
+F[Logger]
+
+G[Console]
+
+A --> B
+
+B --> C
+
+C --> D
+
+D --> E
+
+E --> F
+
+E --> G
+```

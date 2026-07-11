@@ -26,6 +26,14 @@ Each connection is correlated with:
 
 The tool is intended for DFIR investigations, SOC monitoring, malware analysis and threat hunting.
 
+## Installation
+
+Clone repository
+
+```powershell
+git clone https://github.com/Lucas18062025/NETWORK-EGRESS-MONITOR.git
+```
+
 ## Uso
 
 ```powershell

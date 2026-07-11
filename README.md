@@ -19,7 +19,8 @@
        Threat Hunting
 
        Blue Team
-
+       
+──────────────────────────────────────────────
 
        Real-Time Connections
 

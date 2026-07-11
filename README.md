@@ -6,8 +6,6 @@
 <img src="https://img.shields.io/badge/Status-Active-brightgreen">
 </p>
 
-┌─────────────────────────────────────────────────────────────┐
-
            🛰️ NETWORK EGRESS MONITOR
 
        -Time TCP Egress Monitoring for Windows
@@ -22,7 +20,6 @@
 
        Blue Team
 
-──────────────────────────────────────────────
 
        Real-Time Connections
 
@@ -36,7 +33,6 @@
 
        Windows Native
 
-└─────────────────────────────────────────────────────────────┘
 
 **LinkedIn:** [lucas-villagra-cybersecurity](https://linkedin.com/in/lucas-villagra-cybersecurity)
 

@@ -1,7 +1,7 @@
-# Network Egress Monitor - v3.0 FINAL
+# Network Egress Monitor - v3.0
 
 **Autor:** Lucas Villagra | Cybersecurity Analyst  
-**Fecha:** 11-JUL-2026  
+**Fecha:** JUL-2026  
 **Ubicación:** San Miguel de Tucumán, Argentina  
 **LinkedIn:** [lucas-villagra-cybersecurity](https://linkedin.com/in/lucas-villagra-cybersecurity)
 

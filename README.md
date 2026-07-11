@@ -8,7 +8,7 @@
 
            🛰️ NETWORK EGRESS MONITOR
 
-       -Time TCP Egress Monitoring for Windows
+       Time TCP Egress Monitoring for Windows
 
        PowerShell Native
 
@@ -74,6 +74,15 @@ git clone https://github.com/Lucas18062025/NETWORK-EGRESS-MONITOR.git
 # Con ejecución policy
 powershell -ExecutionPolicy Bypass -File .\monitor-egress.ps1 -IntervalSeconds 1
 ```
+SOC Monitoring
+
+Threat Hunting
+
+Incident Response
+
+Malware Analysis
+
+Digital Forensics
 
 ## Features
 

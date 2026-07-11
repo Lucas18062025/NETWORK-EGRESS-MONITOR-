@@ -6,22 +6,37 @@
 <img src="https://img.shields.io/badge/Status-Active-brightgreen">
 </p>
 
-┌───────────────────────────────────────────────────────────────┐
+┌─────────────────────────────────────────────────────────────┐
 
-🛰️  NETWORK EGRESS MONITOR
+🛰️ NETWORK EGRESS MONITOR
 
-Real-Time TCP Connection Visibility for Windows
+Real-Time TCP Egress Monitoring for Windows
 
-PowerShell | DFIR | SOC | Threat Hunting
+PowerShell Native
 
-───────────────────────────────────────────────
+SOC
 
-Monitor outbound TCP connections
-Resolve Hostnames
-Identify Organizations
-Generate Investigation Logs
+DFIR
 
-└───────────────────────────────────────────────────────────────┘
+Threat Hunting
+
+Blue Team
+
+──────────────────────────────────────────────
+
+Real-Time Connections
+
+Reverse DNS
+
+Organization Detection
+
+Process Correlation
+
+Logging
+
+Windows Native
+
+└─────────────────────────────────────────────────────────────┘
 
 **LinkedIn:** [lucas-villagra-cybersecurity](https://linkedin.com/in/lucas-villagra-cybersecurity)
 

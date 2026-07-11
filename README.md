@@ -1,17 +1,10 @@
 <p align="center">
-
-![PowerShell](https://img.shields.io/badge/PowerShell-5.1+-5391FE?logo=powershell&logoColor=white)
-
-![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?logo=windows&logoColor=white)
-
-![License](https://img.shields.io/badge/License-MIT-green)
-
-![Version](https://img.shields.io/badge/Version-v3.0-blue)
-
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-
+<img src="https://img.shields.io/badge/PowerShell-5.1+-5391FE?logo=powershell&logoColor=white">
+<img src="https://img.shields.io/badge/Windows-10%2F11-0078D6?logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/License-MIT-green">
+<img src="https://img.shields.io/badge/Version-v3.0-blue">
+<img src="https://img.shields.io/badge/Status-Active-brightgreen">
 </p>
-
 # 🛰️ Network Egress Monitor
 
 Real-time TCP Egress Monitoring Tool for Windows.

@@ -1,8 +1,10 @@
-╔══════════════════════════════════════════════════════════════════════╗
-║                    NETWORK EGRESS MONITOR v3.0                      ║
-║              Windows Live TCP Connection Auditor                   ║
-║                      Lucas Villagra - 2026                         ║
-╚══════════════════════════════════════════════════════════════════════╝
+# 🛰️ Network Egress Monitor
+
+Real-time TCP Egress Monitoring Tool for Windows.
+
+Designed for SOC Analysts, DFIR Investigators and Blue Teams.
+
+---
 
 **LinkedIn:** [lucas-villagra-cybersecurity](https://linkedin.com/in/lucas-villagra-cybersecurity)
 

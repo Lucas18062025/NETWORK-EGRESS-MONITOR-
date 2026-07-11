@@ -1,4 +1,3 @@
-$readme = @'
 # Network Egress Monitor - v3.0 FINAL
 
 **Autor:** Lucas Villagra | Cybersecurity Analyst  
@@ -34,4 +33,3 @@ Monitor de tráfico saliente (egress) en tiempo real para Windows 11. Captura co
 powershell -ExecutionPolicy Bypass -File .\monitor-egress.ps1 -IntervalSeconds 1
 ```
 
-## Output Ejemplo

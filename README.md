@@ -1,8 +1,9 @@
-# Network Egress Monitor - v3.0
+╔══════════════════════════════════════════════════════════════════════╗
+║                    NETWORK EGRESS MONITOR v3.0                       ║
+║              Windows Live TCP Connection Auditor                     ║
+║                      Lucas Villagra - 2026                           ║
+╚══════════════════════════════════════════════════════════════════════╝
 
-**Autor:** Lucas Villagra | Cybersecurity Analyst  
-**Fecha:** JUL-2026  
-**Ubicación:** San Miguel de Tucumán, Argentina  
 **LinkedIn:** [lucas-villagra-cybersecurity](https://linkedin.com/in/lucas-villagra-cybersecurity)
 
 ---

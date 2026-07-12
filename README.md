@@ -1,40 +1,17 @@
-<p align="center">
-<img src="https://img.shields.io/badge/PowerShell-5.1+-5391FE?logo=powershell&logoColor=white">
-<img src="https://img.shields.io/badge/Windows-10%2F11-0078D6?logo=windows&logoColor=white">
-<img src="https://img.shields.io/badge/License-MIT-green">
-<img src="https://img.shields.io/badge/Version-v3.0-blue">
-<img src="https://img.shields.io/badge/Status-Active-brightgreen">
-</p>
+# 🔴 Network Egress Monitor - v3.0 FINAL
 
-           🛰️ NETWORK EGRESS MONITOR
+[![PowerShell 5.1](https://img.shields.io/badge/PowerShell-5.1-blue)](https://microsoft.com/powershell)
+[![Windows 11](https://img.shields.io/badge/Windows-11%20Pro-0078D4)](https://microsoft.com/windows)
+[![License MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![Status Active](https://img.shields.io/badge/Status-Active-brightgreen)](https://github.com/Lucas18062025/NETWORK-EGRESS-MONITOR-)
 
-       Time TCP Egress Monitoring for Windows
+**Real-time TCP Egress Monitoring for Windows 11 with Forensic Audit Context**
 
-       PowerShell Native
+---
 
-       SOC
-
-       DFIR
-
-       Threat Hunting
-
-       Blue Team
-       
-──────────────────────────────────────────────
-
-       Real-Time Connections
-
-       Reverse DNS
-
-       Organization Detection
-
-       Process Correlation
-
-       Logging
-
-       Windows Native
-
-
+**Autor:** Lucas Villagra | Cybersecurity Analyst  
+**Fecha:** 12-JUL-2026  
+**Ubicación:** San Miguel de Tucumán, Argentina  
 **LinkedIn:** [lucas-villagra-cybersecurity](https://linkedin.com/in/lucas-villagra-cybersecurity)
 
 ---

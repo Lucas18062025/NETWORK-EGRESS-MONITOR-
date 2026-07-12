@@ -1,4 +1,4 @@
-# 🔴 Network Egress Monitor - v3.0 FINAL
+# 📡 Network Egress Monitor - v3.0 FINAL
 
 [![PowerShell 5.1](https://img.shields.io/badge/PowerShell-5.1-blue)](https://microsoft.com/powershell)
 [![Windows 11](https://img.shields.io/badge/Windows-11%20Pro-0078D4)](https://microsoft.com/windows)
@@ -10,7 +10,7 @@
 ---
 
 **Autor:** Lucas Villagra | Cybersecurity Analyst  
-**Fecha:** 12-JUL-2026  
+**Fecha:** JUL-2026  
 **Ubicación:** San Miguel de Tucumán, Argentina  
 **LinkedIn:** [lucas-villagra-cybersecurity](https://linkedin.com/in/lucas-villagra-cybersecurity)
 

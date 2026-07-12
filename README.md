@@ -75,6 +75,10 @@ git clone https://github.com/Lucas18062025/NETWORK-EGRESS-MONITOR.git
 # Con ejecución policy
 powershell -ExecutionPolicy Bypass -File .\monitor-egress.ps1 -IntervalSeconds 1
 ```
+## Captura en Vivo
+
+![Network Egress Monitor Screenshot](https://raw.githubusercontent.com/Lucas18062025/NETWORK-EGRESS-MONITOR-/main/NETWORK-EGRESS-MONITOR-.png)
+
 SOC Monitoring
 
 Threat Hunting

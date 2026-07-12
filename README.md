@@ -104,3 +104,24 @@ E --> F
 
 E --> G
 ```
+## Roadmap
+
+- [ ] v3.1: Agregar alertas por Email
+- [ ] v3.2: Exportar logs a CSV/JSON
+- [ ] v3.3: Integración con Splunk/ELK
+- [ ] v4.0: Versión GUI (WinForms)
+- [ ] v4.1: API REST para queries remotas
+
+---
+
+## Contribuyendo
+
+Reportá issues en [GitHub Issues](https://github.com/Lucas18062025/NETWORK-EGRESS-MONITOR-/issues)
+
+---
+
+## TODO
+
+- [ ] Agregar tests automatizados
+- [ ] Documentación en PDF
+- [ ] Video tutorial de instalación

@@ -7,14 +7,6 @@
 
 **Real-time TCP Egress Monitoring for Windows 11 with Forensic Audit Context**
 
----
-
-**Autor:** Lucas Villagra | Cybersecurity Analyst  
-**Fecha:** JUL-2026  
-**Ubicación:** San Miguel de Tucumán, Argentina  
-**LinkedIn:** [lucas-villagra-cybersecurity](https://linkedin.com/in/lucas-villagra-cybersecurity)
-
----
 
 ## Descripción
 
@@ -114,14 +106,9 @@ E --> G
 
 ---
 
-## Contribuyendo
-
-Reportá issues en [GitHub Issues](https://github.com/Lucas18062025/NETWORK-EGRESS-MONITOR-/issues)
+**Autor:** Lucas Villagra | Cybersecurity Analyst  
+**Fecha:** JUL-2026  
+**Ubicación:** San Miguel de Tucumán, Argentina  
+**LinkedIn:** [lucas-villagra-cybersecurity](https://linkedin.com/in/lucas-villagra-cybersecurity)
 
 ---
-
-## TODO
-
-- [ ] Agregar tests automatizados
-- [ ] Documentación en PDF
-- [ ] Video tutorial de instalación

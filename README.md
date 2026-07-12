@@ -1,4 +1,4 @@
-# 📡 Network Egress Monitor - v3.0 FINAL
+# 📡 Network Egress Monitor - v3.0 
 
 [![PowerShell 5.1](https://img.shields.io/badge/PowerShell-5.1-blue)](https://microsoft.com/powershell)
 [![Windows 11](https://img.shields.io/badge/Windows-11%20Pro-0078D4)](https://microsoft.com/windows)

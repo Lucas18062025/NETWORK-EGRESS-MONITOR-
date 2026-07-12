@@ -106,9 +106,14 @@ E --> G
 
 ---
 
-**Autor:** Lucas Villagra | Cybersecurity Analyst  
-**Fecha:** JUL-2026  
-**Ubicación:** San Miguel de Tucumán, Argentina  
-**LinkedIn:** [lucas-villagra-cybersecurity](https://linkedin.com/in/lucas-villagra-cybersecurity)
+## 👤 Autor
+
+**Lucas Villagra**  
+Cybersecurity Analyst | Ethical Hacker | SOC Analyst  
+📍 San Miguel de Tucumán, Argentina
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lucas--villagra--cybersecurity-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/lucas-villagra-cybersecurity)
+[![GitHub](https://img.shields.io/badge/GitHub-Lucas18062025-181717?style=flat&logo=github)](https://github.com/Lucas18062025)
+[![Portfolio](https://img.shields.io/badge/Portfolio-lucas18062025.github.io-00D4FF?style=flat&logo=githubpages)](https://lucas18062025.github.io/Portafolio/)
 
 ---

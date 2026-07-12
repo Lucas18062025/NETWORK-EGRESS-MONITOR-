@@ -79,15 +79,6 @@ powershell -ExecutionPolicy Bypass -File .\monitor-egress.ps1 -IntervalSeconds 1
 
 ![Network Egress Monitor Screenshot](https://raw.githubusercontent.com/Lucas18062025/NETWORK-EGRESS-MONITOR-/main/NETWORK-EGRESS-MONITOR-.png)
 
-SOC Monitoring
-
-Threat Hunting
-
-Incident Response
-
-Malware Analysis
-
-Digital Forensics
 
 ## Features
 

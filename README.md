@@ -4,7 +4,7 @@
 [![Windows 11](https://img.shields.io/badge/Windows-11%20Pro-0078D4)](https://microsoft.com/windows)
 [![License MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![Status Active](https://img.shields.io/badge/Status-Active-brightgreen)](https://github.com/Lucas18062025/NETWORK-EGRESS-MONITOR-)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6a6d9a81-aae5-4ac9-854a-804a83f5482f/deploy-status)](https://app.netlify.com/projects/networkegressmonitor/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6a6d9a81-aae5-4ac9-854a-804a83f5482f/deploy-success)](https://app.netlify.com/projects/networkegressmonitor/deploys)
 
 **Real-time TCP Egress Monitoring for Windows 11 with Forensic Audit Context**
 
